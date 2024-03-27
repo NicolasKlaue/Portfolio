@@ -8,6 +8,9 @@ import {
      faLinkedin,
 } from "@fortawesome/free-brands-svg-icons";
 
+import Tilt from 'react-parallax-tilt'
+import Typewriter from 'typewriter-effect'
+
 import Logo from "../components/common/logo";
 import Footer from "../components/common/footer";
 import NavBar from "../components/common/navBar";
@@ -91,6 +94,15 @@ const Homepage = () => {
 							<div className="homepage-first-area-left-side">
 								<div className="title homepage-title">
 									{INFO.homepage.title}
+                                             <Typewriter
+                                             options ={{
+                                                  strings:["Data analyst", "Full-stack developer", "AI Engineer"],
+                                                  autoStart:true,
+                                                  loop:true,
+                                                  delay:70,
+                                                  deletespeed:30
+                                             }}>
+                                             </Typewriter>
 								</div>
 
 								<div className="subtitle homepage-subtitle">
@@ -101,11 +113,13 @@ const Homepage = () => {
 							<div className="homepage-first-area-right-side">
 								<div className="homepage-image-container">
 									<div className="homepage-image-wrapper">
+                                                 <Tilt>
 										<img
 											src="homepage.jpeg"
 											alt="about"
 											className="homepage-image"
 										/>
+                                                  </Tilt>
 									</div>
 								</div>
 							</div>

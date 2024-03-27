@@ -12,7 +12,7 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Full-stack developer and AI enthusiast, trying to become an expert.",
+		title: "Hello I am Nicolás Klaue and I am a:",
 		description:
 			"I am a backend developer with expertise in Python and C trying to learn how become a better JS and Java developer, I love to work on new projects that allow me solve new problems in creative ways. I am also constantly trying to learn new things and find new ideas to explore. I am also an entrepeneur currently working on my very own start up Paraclesio.",
 	},
