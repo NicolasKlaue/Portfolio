@@ -17,6 +17,7 @@ const AllProjects = () => {
 						description={project.description}
 						linkText={project.linkText}
 						link={project.link}
+						//TODO implement projects and short description look for the biggest and most important projects
 					/>
 				</div>
 			))}
