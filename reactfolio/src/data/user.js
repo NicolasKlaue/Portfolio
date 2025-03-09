@@ -3,7 +3,6 @@ const INFO = {
 		title: "Portfolio by Nicolás Klaue",
 		name: "Nicolás Daniel Klaue Ligués",
 		email: "klaue.nico@gmail.com",
-		logo: "../logo.png",
 	},
 
 	socials: {
