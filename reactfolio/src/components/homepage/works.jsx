@@ -15,28 +15,28 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work">
 							<img
-								src={process.env.PUBLIC_URL + '/facebook.png'}
-								alt="facebook"
+								src={"https://saviynt.com/hubfs/celonis.png"}
+								alt="celonis"
 								className="work-image"
 							/>
-							<div className="work-title">Facebook</div>
+							<div className="work-title">Celonis SE</div>
 							<div className="work-subtitle">
-								Software Engineer
+								Services Consultant
 							</div>
-							<div className="work-duration">2019 - Present</div>
+							<div className="work-duration">September 2024 - March 2025</div>
 						</div>
 
 						<div className="work">
 							<img
-								src={process.env.PUBLIC_URL + '/twitter.png'}
-								alt="twitter"
+								src={'https://www.brandslex.de/img/logos/xl/v/logo-vorwerk-01.png'}
+								alt="akf-bank"
 								className="work-image"
 							/>
-							<div className="work-title">Twitter</div>
+							<div className="work-title">AKF BANK; Vorwerk Group</div>
 							<div className="work-subtitle">
-								Software Engineer
+								Software Architect
 							</div>
-							<div className="work-duration">2019 - Present</div>
+							<div className="work-duration">June 2021 - September 2023</div>
 						</div>
 					</div>
 				}

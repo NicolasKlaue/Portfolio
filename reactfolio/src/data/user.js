@@ -29,14 +29,47 @@ const INFO = {
 	},
 
 	projects: [
-		{
-			title: "Project 1",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
+          {
+               logo: "https://cdn-icons-png.flaticon.com/512/59/59118.png", // Replace with actual logo path if available
+               title: "BeerReviewML",
+               description: "A sentiment analysis project exploring beer reviews using NLP techniques to determine the sentiment expressed in textual data.",
+               linkText: "View on GitHub",
+               link: "https://github.com/NicolasKlaue/BeerReviewML"
+          },
+          {
+               logo: "https://cdn-icons-png.flaticon.com/512/59/59118.png", // Replace with actual logo path if available
+               title: "SpaceCraftLandingML",
+               description: "A machine learning project focused on predicting spacecraft landing outcomes using various classification algorithms and feature engineering techniques.",
+               linkText: "View on GitHub",
+               link: "https://github.com/NicolasKlaue/SpaceCraftLandingML"
+          },
+          {
+               logo: "https://cdn-icons-png.flaticon.com/512/59/59118.png", // Replace with actual logo path if available
+               title: "Apple Stock Analysis",
+               description: "A comprehensive analysis of Apple's stock performance using historical data, visualizations, and predictive modeling techniques.",
+               linkText: "View on GitHub",
+               link: "https://github.com/NicolasKlaue/apple-stock-analysis"
+          },
+          {
+               logo: "https://cdn-icons-png.flaticon.com/512/59/59118.png", // Replace with actual logo path if available
+               title: "CatClasifier",
+               description: "A machine learning project that classifies images of cats using convolutional neural networks implemented in TensorFlow.",
+               linkText: "View on GitHub",
+               link: "https://github.com/NicolasKlaue/CatClasifier"
+          },
+          {
+               logo: "https://cdn-icons-png.flaticon.com/512/59/59118.png", // Replace with actual logo path if available
+               title: "Feed Forward",
+               description: "A Python implementation of a feed-forward neural network, demonstrating the fundamentals of neural network architecture and training.",
+               linkText: "View on GitHub",
+               link: "https://github.com/NicolasKlaue/feed-forward"
+          },{
+               logo: "https://cdn-icons-png.flaticon.com/512/59/59118.png", // Replace with actual logo path if available
+               title: "Perceptron",
+               description: "The objective of this is to construct a linear architecture (Perceptron) to develop a predictive model for identifying two iris types (for instance: Setosa and Virginica) based on the flower's characteristics: (1) sepal width in centimeters; (2) sepal length in centimeters; (3) petal length in centimeters; and (4) petal width in centimeters.",
+               linkText: "View on GitHub",
+               link: "https://github.com/NicolasKlaue/Perceptron-to-classify-iris-types"
+             }
 	],
 };
 
