@@ -25,7 +25,6 @@ const Article = (props) => {
 								style={{ fontSize: "10px" }}
 								icon={faChevronRight}
 							/>
-							//TODO implement articles to finish all of the website
 						</div>
 					</div>
 				</Link>
