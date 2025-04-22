@@ -490,7 +490,7 @@ function article_9() {
 						As technology continues to advance, it offers new opportunities to create a more sustainable and resilient agricultural system. By embracing innovation and addressing the challenges, we can ensure a secure food future for generations to come.
 					</div>
 					<img
-						src="https://source.unsplash.com/featured/?sustainable,agriculture"
+						src="https://miro.medium.com/v2/resize:fit:1000/0*IhYGZfd633OmzHS1.jpg"
 						alt="Sustainable Agriculture"
 						className="randImage"
 					/>
