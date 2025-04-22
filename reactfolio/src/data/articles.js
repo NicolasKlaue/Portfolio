@@ -465,7 +465,7 @@ function article_9() {
 
 				.randImage {
 					align-self: center;
-					outline: 2px solid red;
+					height: 200px;
 				}
 				`,
 		body: (
