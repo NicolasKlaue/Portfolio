@@ -96,11 +96,11 @@ const Homepage = () => {
 									{INFO.homepage.title}
                                              <Typewriter
                                              options ={{
-                                                  strings:["Data analyst", "Full-stack developer", "AI Engineer"],
+                                                  strings:["Data analyst", "Full-stack developer", "AI Engineer", "IT Consultant"],
                                                   autoStart:true,
                                                   loop:true,
-                                                  delay:70,
-                                                  deletespeed:30
+                                                  delay:50,
+                                                  deletespeed:10
                                              }}>
                                              </Typewriter>
 								</div>
